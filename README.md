@@ -1,7 +1,13 @@
 # Retail Sales Analysis SQL Project
+## Inspiration
+This project was inspired by a tutorial video on [YouTube](https://youtu.be/ChIQjGBI3AM?si=YsAy6sBHzxg9Y8yt). 
+I used the video as a learning resource and developed my own solutions to the questions.
 
+## My Contributions
+- Wrote all SQL queries independently.
+- Solved the provided business questions with my own logic and analysis.
+  
 ## Project Overview
-
 **Project Title**: Retail Sales Analysis  
 **Database**: `SQL_Project`
 
